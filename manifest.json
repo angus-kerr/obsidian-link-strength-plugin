@@ -2,7 +2,7 @@
 	"id": "link-strength",
 	"name": "Link Strength",
 	"version": "0.0.1",
-	"minAppVersion": "0.0.1",
+	"minAppVersion": "1.4.16",
 	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
 	"author": "Obsidian",
 	"authorUrl": "https://obsidian.md",
